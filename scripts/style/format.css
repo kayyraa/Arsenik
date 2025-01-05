@@ -97,7 +97,7 @@ sidebar > div > * {
 
 .Playground {
     position: absolute;
-    left: 20em;
+    left: 25vw;
     top: 0;
     width: calc(100% - 20em);
     height: 100%;
