@@ -99,7 +99,7 @@ sidebar > div > * {
     position: absolute;
     left: 25vw;
     top: 0;
-    width: calc(100% - 20em);
+    width: calc(100% - 25vw);
     height: 100%;
 }
 
